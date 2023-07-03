@@ -18,3 +18,9 @@ Simulator Screenshot - iPhone 14 Pro Max - 2023-07-03 at 14.53.28.png
 Simulator Screenshot - iPhone 14 Pro Max - 2023-07-03 at 14.54.37.png
 Simulator Screenshot - iPhone 14 Pro Max - 2023-07-03 at 14.54.41.png
 ![](../../Desktop/Simulator Screenshot - iPhone 14 Pro Max - 2023-07-03 at 14.53.28.png)![](../../Desktop/Simulator Screenshot - iPhone 14 Pro Max - 2023-07-03 at 14.54.37.png)![](../../Desktop/Simulator Screenshot - iPhone 14 Pro Max - 2023-07-03 at 14.54.41.png)
+
+Simulator Screenshot - iPhone 14 Pro Max - 2023-07-03 at 14.53.28.png
+Simulator Screenshot - iPhone 14 Pro Max - 2023-07-03 at 14.54.37.png
+Simulator Screenshot - iPhone 14 Pro Max - 2023-07-03 at 14.54.41.png
+
+I out screen shoot 3 times but I do not understand why it's not showing 
